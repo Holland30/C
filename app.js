@@ -15,3 +15,4 @@ App({
   //options(path,query,isEntryPage)
   onPageNotFound: function (options) {},
 });
+//test
